@@ -1,4 +1,4 @@
-# YoutubeUploadBot
+# Youtube Upload Automation
 
 This is a Python code that automates the uploading process of YouTube videos using the Selenium WebDriver library. The code provides the option to upload either a single video multiple times or multiple videos at once. It also allows scheduling of the videos for a specific date.
 
